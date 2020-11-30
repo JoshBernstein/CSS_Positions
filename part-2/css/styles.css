@@ -26,4 +26,38 @@ figure {
 .film {
   width: 50%;
   margin: 40px auto;
+  border: lightgrey 1px solid;
+  padding: 1%;
+  height: 412px;
+}
+
+.film-poster{
+  display: inline;
+  float: left;
+  padding: 1%;
+  width: 28%;
+}
+
+.action-watch-later{
+  color: red;
+  position: relative;
+  bottom: 355px;
+  left: 200px;
+}
+
+.film-title{
+  position: relative;
+  bottom: 17px;
+}
+
+.film-description{
+  ;
+}
+
+.film-details{
+  width: 50%;
+}
+
+.action-like{
+  color: red;
 }
